@@ -1,0 +1,68 @@
+/*https://colorhunt.co/palette/1b262c0f4c753282b8bbe1fa*/
+body {
+  font-family: Tahoma, serif;
+  background-color: #0F4C75;
+}
+h1, p {
+  text-align: center;
+  width: 60%;
+  margin: 6px auto;
+  color: #ffffff;
+}
+label {
+  display: block;
+  margin: 0.2rem 0;
+}
+#description {
+  font-style: italic;
+}
+.container {
+  width: 80%;
+  max-width: 750px;
+  background-color: #1B262C;
+  padding: 10px;
+  margin: auto;
+  margin-bottom: 20px;
+  font-family: sans-serif;
+  color: #ffffff;
+  border-radius: 5px;
+  font-size: 1.2em;
+}
+input, select {
+  width: 100%;
+  margin: 10px 0 20px 0;
+  height: 3.6%;
+  border-radius: 5px;
+}
+.smalltext {
+  font-size: 0.65em;
+}
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+.radiolabel {
+  margin:0;
+  padding:0;
+}
+/* invisible hr */
+hr {
+    clear: both;
+    visibility: hidden;
+    padding: 0;
+    margin: 4px;
+}
+input[type='checkbox'] {
+  width: 1.4em
+}
+.radio2 {
+  margin-bottom: 3px;
+}
+.textarea {
+  width: 100%;
+  margin-top: 10px;
+}
+.radiolabel {
+  font-size: 0.8em;
+}
